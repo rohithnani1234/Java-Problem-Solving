@@ -24,6 +24,6 @@ public class TwinPrime {
 	}	
 	public static void main(String[] args) {
 		TwinPrime prime=new TwinPrime();
-		prime.twinPrime(100);
+		prime.twinPrime(102);
 	}
 }
